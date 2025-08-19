@@ -1,6 +1,6 @@
 body {
     color: rgb(255, 255, 255);
-    background: rgba(3, 222, 238, 0.911);
+    background: rgba(0, 0, 0, 0.911);
     margin: 0px;
 }
 
@@ -10,3 +10,26 @@ header {
     font-size: 32px;
     color: rgb(0, 189, 236);
 }
+
+section {
+    background: rgb(0, 153, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
